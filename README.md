@@ -7,4 +7,5 @@ Lab 5: Vacuum Cleaner<br>
 Lab 6: Knowledge Base Entailment<br>
 Lab 7: Knowledge Base Resolution<br>
 Lab 8: Unification<br>
-Lab 9: FOL to CNF
+Lab 9: FOL to CNF<br>
+Lab 10: Forward reasoning
